@@ -1,2 +1,3 @@
 # NightOutProject
-Big Project
+dependencies:
+-install mongoose, nodemon, npm install, express, then should be set. 
